@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		E4F8EF741E4C3F74001AD199 /* RNGetUUID_KeyChain.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F8EF731E4C3F74001AD199 /* RNGetUUID_KeyChain.m */; };
 		E4F8EF751E4C3F74001AD199 /* RNGetUUID_KeyChain.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = E4F8EF721E4C3F74001AD199 /* RNGetUUID_KeyChain.h */; };
-		E4F8EF7E1E4C3F8D001AD199 /* SFHFKeychainUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F8EF7D1E4C3F8D001AD199 /* SFHFKeychainUtils.m */; };
+		E4F8EF7E1E4C3F8D001AD199 /* SFHFKeychainUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = E4F8EF7D1E4C3F8D001AD199 /* SFHFKeychainUtils.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
