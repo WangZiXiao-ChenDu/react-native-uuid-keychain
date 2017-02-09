@@ -1,0 +1,25 @@
+{
+  "name": "react-native-uuid-keychain",
+  "version": "1.0.0",
+  "description": "react native UUID KeyChain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WangZiXiao-ChenDu/react-native-UUID-KeyChain.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "UUID",
+    "KeyChain"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangZiXiao-ChenDu/react-native-UUID-KeyChain/issues"
+  },
+  "homepage": "https://github.com/WangZiXiao-ChenDu/react-native-UUID-KeyChain#readme"
+}
