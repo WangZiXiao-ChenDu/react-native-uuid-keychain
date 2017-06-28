@@ -16,5 +16,5 @@ import { NativeModules } from 'react-native';
 NativeModules.RNGetUUID_KeyChain.getUDIDKeyChain('Bundle Identifier', (uuid) => {
   // service code
 });
-log: '9DA26F9B-5111-4CC5-BEF5-607573836C45'.
+// log: '9DA26F9B-5111-4CC5-BEF5-607573836C45'.
 ```
